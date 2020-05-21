@@ -33,7 +33,7 @@ header {
 /*  Top 写真  */
 
 .top-wrapper {
-  background-image:url("https://github.com/konkokyo-himeji/moto/blob/master/IMG_%E5%BE%A1%E7%A5%9E%E6%AE%BF%EF%BC%88%E6%98%8E%E3%82%8B%E3%81%84%EF%BC%89.JPG?raw=true");
+  background-image:url("media/picture/IMG_御神殿（明るい）.JPG");
   padding: 400px 0 400px 0;
   margin-top: 60px;
   background-size: cover;
@@ -161,14 +161,18 @@ margin-left: 280px;
 /*  住所  */
 
 footer {
-  background-color: #FFFAFA;
+  background-color: #FFE4E1;
   clear:left;
   font-family: メイリオ;
-  margin: 40px 20px;
   line-height: 0.7;
+
 }
 
-
+.info {
+  height: 80px;
+  width: 0 auto;
+  margin: 20px 20px;
+}
 
 .konkokyo-himeji {
   float: left
