@@ -1,0 +1,139 @@
+.title {
+  color: #02ccba;
+}
+header {
+  height: 65px;
+  width: 100%;
+  background-color: white	;
+  padding: 20px 0 ;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+
+.logo {
+
+  float: left;
+  padding-right: 15px;
+}
+
+.header-title {
+  font-size: 30px;
+  font-family: メイリオ;
+  letter-spacing: 4px;
+}
+.header-subtitle {
+  font-size: 15px;
+  font-family: メイリオ;
+  letter-spacing: 2px;
+}
+
+
+.top-wrapper {
+  background-image:url("media/picture/IMG_御神殿（明るい）.JPG");
+  padding: 400px 0 400px 0;
+  margin-top: 100px;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.heading {
+  margin-bottom:0px ;
+}
+
+.middle-wrapper {
+  padding-top: 30px;
+  padding-bottom: 500px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.middle-wrapper p {
+font-family: メイリオ;
+text-align: center;:
+}
+
+.heading {
+  font-size: 25px;
+}
+
+.whattodo {
+  float: left;
+  max-width: 33%;
+  text-align: center;
+  line-height: 0.8;
+
+}
+
+.whattodo-picture {
+  position: relative;
+  margin: 30px 30px;
+  filter: drop-shadow( 0 0 10px gray);
+}
+
+.whattodo-picture p {
+  position: absolute;
+  top: 44%;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+
+}
+
+.section-title {
+  font-size: 20px;
+}
+
+.contact-form {
+  width: 460px;
+  margin: 0 auto;
+}
+
+.item{
+  overflow: hidden;
+  margin-bottom: 20px;
+
+.label{
+  float: left;
+  margin-right: 20px;
+  width:135px;
+  padding-left: 10px;
+}
+
+.inputs{
+  float: left;
+  width:300px
+}
+
+textarea{
+  border: solid 1px #aaa;
+  border-radius:5px;
+  padding: 10px;
+  height: 160px;
+  font-size: 15px;
+}
+
+footer {
+  background-color: #FFFAFA;
+  clear:left;
+  font-family: メイリオ;
+}
+
+footer span {
+   font-weight: bold;
+}
+
+
+footer ul {
+  list-style: none;
+  margin-top: 20px;
+  padding: 20px;
+  font-size: 15px;
+
+}
