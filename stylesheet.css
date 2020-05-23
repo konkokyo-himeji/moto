@@ -41,7 +41,11 @@ header {
   text-align: center;
   opacity: 0.8;
   text-shadow: 4px 4px 10px silver;
+
 }
+
+
+
 
 .heading {
   margin-bottom:0px ;
@@ -52,8 +56,6 @@ header {
 .middle-wrapper {
   padding-top: 30px;
   padding-bottom: 500px;
-  padding-left: 5%;
-  padding-right: 5%;
   background-color: #f7f7f7;
   text-align: center;
 }
@@ -69,14 +71,11 @@ text-align: center;:
 
 .whattodo {
   float: left;
-  max-width: 33%;
-  text-align: center;
-  line-height: 0.8;
+   width: 33%;
 }
 
 .whattodo-picture {
   position: relative;
-  margin: 30px 30px;
   filter: drop-shadow( 0 0 10px gray);
 }
 
