@@ -1,0 +1,19 @@
+@media (max-width: 670px) {
+  .top-wrapper {
+
+  width: 1300px;
+
+  background-image: url(media/picture/IMG_御神殿（明るい）.JPG);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  }
+
+  .middle-wrapper {
+  width: 1300px;
+  }
+.under-wrapper {
+  width: 1300px;
+
+  }
+
+}
